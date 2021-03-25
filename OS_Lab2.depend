@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1605634623 source:/home/enas/Desktop/OS_Projects/OS_Lab2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+
+1605537863 source:/home/enas/Desktop/OS_Projects/OS_Lab2/inputs.cpp
+	"inputs.h"
+
+1605546645 /home/enas/Desktop/OS_Projects/OS_Lab2/inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605538041 source:/home/enas/Desktop/OS_Projects/OS_Lab2/method1.cpp
+	"method1.h"
+
+1605546645 /home/enas/Desktop/OS_Projects/OS_Lab2/method1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	"inputs.h"
+
+1605546652 /home/enas/Desktop/OS_Projects/OS_Lab2/structures.h
+
